@@ -6,11 +6,9 @@ This project is a movie recommendation system built using Python. It leverages m
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Methodology](#methodology)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
